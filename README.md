@@ -1,6 +1,9 @@
 # RecyclerView
 RecyclerView that mimics a listview with the option to put the list into a card view. The data is pulled from Reddit's open API parsing their JSON data.
 
+You can follow my tutorial series on how to make recyclerviews here
+https://www.youtube.com/watch?v=8ePqYGMxdSY&list=PLQjeFjKrwMBvDeocKVEt28c3sURkvH6Vo&index=1
+
 Below is the picture of the final app in cardview
 ![Alt text](/screenshots/card1.PNG?raw=true)
 
